@@ -1,0 +1,8 @@
+{
+  "request_timeout": 10,
+  "max_comments": 100,
+  "scrape_replies": true,
+  "export_format": "json",
+  "delay_between_requests": 0.75,
+  "user_agent": "Mozilla/5.0 (compatible; TikTokCommentScraper/1.0; +https://bitbash.dev)"
+}
