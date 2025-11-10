@@ -1,0 +1,9 @@
+[
+  {
+    "video_url": "https://www.tiktok.com/@ladygaga/video/7211250685902359850",
+    "max_comments": 100,
+    "scrape_replies": true,
+    "export_format": "json",
+    "output_file": "sample_output"
+  }
+]
